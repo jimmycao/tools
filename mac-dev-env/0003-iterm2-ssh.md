@@ -1,9 +1,9 @@
-#Iterm2设置
-#1 登录远程服务器
+# Iterm2设置
+# 1 登录远程服务器
 进入iterm2的preference，增加机器
 ![log_remote](./img/iterm2_config.png)
 
-#2 免密码
+# 2 免密码
 ```
 vi ~/.ssh/config
 host *

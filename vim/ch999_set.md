@@ -1,4 +1,4 @@
-#vim geek 99: set vi
+# vim geek 99: set vi
 
 ## Displaying vi option values
 

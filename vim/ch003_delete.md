@@ -1,4 +1,4 @@
-#Deleting text
+# Deleting text
 
 Text is deleted by combining the delete commands x and d with the type of text object to be deleted.
 

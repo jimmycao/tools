@@ -1,6 +1,6 @@
-#Mac install SecureCRT
+# Mac install SecureCRT
 
-##1 下载
+## 1 下载
 下载SecureCRT731.zip，加压有两个文件
 
 ```
@@ -9,10 +9,10 @@ scrt-7.3.1-685.osx_x64.dmg
 
 ```
 
-##2 scrt-7.3.1-685.osx_x64.dmg
+## 2 scrt-7.3.1-685.osx_x64.dmg
 一直选择『继续』就可以了！！安装完成后，将生成的secureCRT拷贝到应用程序中
 
-##3 Open
+## 3 Open
 安装完毕后，请正常打开一次，然后在关闭，同时断网
 
 在Mac终端上执行 
@@ -25,7 +25,7 @@ sudo perl ~/Downloads/securecrt_mac_crack.pl /Applications/SecureCRT.app/Content
 
  
 
-##4 License 
+## 4 License 
 再次打开secureCRT，点击【Enter License Data】，再选择人工输入，将下列信息逐步输入:
 
 ```

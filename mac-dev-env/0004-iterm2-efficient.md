@@ -1,9 +1,9 @@
-#1. Item2效率提升
+# 1 Item2效率提升
 
-##1.1 show/hide
+## 1.1 show/hide
 iterm2 -> Preference -> Keys -> HotKey (show/hide...)设定为 cmd + ／
 
-##1.2 shortcut
+## 1.2 shortcut
 ```
 v-split: cmd + d
 h-split: shift + cmd +d

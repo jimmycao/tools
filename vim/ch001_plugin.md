@@ -1,8 +1,8 @@
-#vim插件管理
+# vim插件管理
 
 “工欲善其事，必先利其器”。程序员要有工匠精神！
 
-##0 插件管理器pathogen
+## 0 插件管理器pathogen
 
 	$ cd ~/.vim
 	$ mkdir autoload
@@ -22,7 +22,7 @@
 
 	git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
-##1 vim-sensible
+## 1 vim-sensible
 	
 在~/.vim/bundle下面
 
@@ -38,17 +38,17 @@
 
 对大部分人来说，这些就足够了。
 
-##2 自动补全 {} ()等
+## 2 自动补全 {} ()等
 	git clone https://github.com/Raimondi/delimitMate.git
 	git clone https://github.com/docunext/closetag.vim.git
 
-##3.智能提示supertab
+## 3.智能提示supertab
 
 这个插件没你想的这么智能，它只能提示你当前文件下出现过的变量名或者函数名等，输入几个字母后按tab即可。安装同样:
 
 	git clone https://github.com/ervandew/supertab.git
 
-##4.tagbar
+## 4.tagbar
 
 在侧边栏开一个窗口来显示当前文件的组织结构，我一般用来快速定位到我代码的某些函数或者段落。在侧边栏移到相应的标签，然后p是预览，回车就直接到对应代码，且关掉侧边栏。这个插件需要学习一样怎么用（help tagbar）
 cd .vim/bundle
@@ -57,7 +57,7 @@ git clone https://github.com/majutsushi/tagbar.git
 nmap \ :TagbarOpenAutoClose<CR>
 
 
-##5.NERDTree
+## 5.NERDTree
 
 	git clone https://github.com/scrooloose/nerdtree.git
 

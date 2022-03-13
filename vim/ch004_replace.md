@@ -1,6 +1,6 @@
-#replacing text
+# replacing text
 
-##To replace one word in the current line with another:
+## To replace one word in the current line with another:
 
 	:s/that/which
 
